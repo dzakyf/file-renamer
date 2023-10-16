@@ -8,7 +8,7 @@ This is file renamer script to rename all of the files contained inside folder.
 
 # How to use 
 
-1. Change Run
+1. Change directory by copying main.py into target directory 
 2. Run this script through terminal : 
 		
 		python3 main.py	
